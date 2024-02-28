@@ -6,23 +6,33 @@ Welcome to my GitHub profile! I'm Philippe Acquier, a passionate data scientist 
 ## 🔧 Skills
 
 - **Programming Languages:** Python 3
-- **Data Analysis:** Pandas, NumPy, Scipy, Statsmodels, SKLearn
-- **Data Visualization:** Matplotlib, Seaborn, Plotly, PowerBI
-- **Database:** PostgreSQL, BigQuery
-- **Cloud:** Google Cloud Platform
-- **Version Control:** Git
+- **Data Analysis:** Pandas, NumPy, Scipy, Statsmodels, SKLearn, ...
+- **Data Visualization:** Matplotlib, Seaborn, Plotly
+- **Dashboards:** Grafana, PowerBI
+- **Image manipulation(3D reconstruction from stacks):**: ImageJ/Fiji 
+- **Image manipulation(3D reconstruction from Point Cloud):** ParaView, Interspectral, Datashader
+- **Database:** PostgreSQL
+- **Cloud:** Google Cloud Platform, Microsoft Azure
+- **Version Control:** Git, Gitlab
 - **Languages:** French (Native), English (Fluent)
 
 ## 📂 Personal Projects
 
 - [Project 1: Statistic Process Control](https://github.com/PhilippeDataScienc/Statistic_process_control))
     - Create a class for calculation of a process score with OOP programming
-    - Implementation it with file manipulation and data visualisation
+    - Implementation in a Flask app with file manipulation and data visualisation
     - I choosed Flask to manipulate the file.
 - [Project 2: Automatic Bill Update](https://github.com/PhilippeDataScienc/Automatic_bill_update) - It's a project for a small business entrepreneur which include several functionnalities:
     - automatic bill implementation each month (manipulation of docx files, modification, creation of new folder, converrt to pdf)
     - automatic mail sending to a list of recipient
     - All included with a GUI (Tktinter)
+ - [Project 3: Implementation of a LLM model locally with personnal files](https://github.com/PhilippeDataScienc/LLM_implementation_with_personal_files):
+   - Test project of how to feed a LLM locally with your personal documentation for SAFETY and PERSONALIZATION
+   - Work with OLLAMA, Mistral 8x7b
+ - [Project 4: Flask app of stock exchange, with automated Github actions](https://github.com/PhilippeDataScienc/cotation_cryptomonnaie):
+     - web interface in Flask of market stock exchange
+     - automated testings with github actions
+     - automated tests in local with tox
 
 Explore my [repositories](https://github.com/PhilippeDataScienc) to find more interesting projects!
 
