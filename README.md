@@ -22,14 +22,17 @@ Welcome to my GitHub profile! I'm Philippe Acquier, a passionate data scientist 
     - Create a class for calculation of a process score with OOP programming
     - Implementation in a Flask app with file manipulation and data visualisation
     - I choosed Flask to manipulate the file.
-- [Project 2: Automatic Bill Update](https://github.com/PhilippeDataScienc/Automatic_bill_update) - It's a project for a small business entrepreneur which include several functionnalities:
-    - automatic bill implementation each month (manipulation of docx files, modification, creation of new folder, converrt to pdf)
+- [Project 2: Automatic Bill Update](https://github.com/PhilippeDataScienc/Automatic_bill_update)
+    - It's a project for a small business entrepreneur which include several functionnalities:
+    - automatic bill implementation each month (manipulation of docx files, modification, creation of new folder, convert to pdf)
     - automatic mail sending to a list of recipient
     - All included with a GUI (Tktinter)
- - [Project 3: Implementation of a LLM model locally with personnal files](https://github.com/PhilippeDataScienc/LLM_implementation_with_personal_files):
+- [Project 3:  simple animation of a stl file](https://github.com/PhilippeDataScienc/3D_file_explorer)
+    - use of pyvista lib to geenrate animation around stl 3D file
+ - [Project 4: Implementation of a LLM model locally with personnal files](https://github.com/PhilippeDataScienc/LLM_implementation_with_personal_files):
    - Test project of how to feed a LLM locally with your personal documentation for SAFETY and PERSONALIZATION
    - Work with OLLAMA, Mistral 8x7b
- - [Project 4: Flask app of stock exchange, with automated Github actions](https://github.com/PhilippeDataScienc/cotation_cryptomonnaie):
+ - [Project 5: Flask app of stock exchange, with automated Github actions](https://github.com/PhilippeDataScienc/cotation_cryptomonnaie):
      - web interface in Flask of market stock exchange
      - automated testings with github actions
      - automated tests in local with tox
