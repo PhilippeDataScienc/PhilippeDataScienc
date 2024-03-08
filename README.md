@@ -59,7 +59,7 @@ Explore my [repositories](https://github.com/PhilippeDataScienc) to find more in
 
 ## 📫 Contact
 
-Feel free to reach out to me via email at [philippeacquier@yahoo.fr](mailto:philippeacquier@yahoo.fr) or connect with me on [LinkedIn]([link_to_linkedin_profile](https://www.linkedin.com/in/philippe-acquier-97890784/)).
+Feel free to reach out to me via email at [philippeacquier@yahoo.fr](mailto:philippeacquier@yahoo.fr) or connect with me on [LinkedIn](https://www.linkedin.com/in/philippe-acquier-97890784/).
 
 Let's collaborate and make data work for you!
 
