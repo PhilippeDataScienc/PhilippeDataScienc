@@ -18,13 +18,12 @@ Python Addict :snake:
 - **Languages:** French (Native), English (Fluent)
 
 ## 📂 Personal Projects
+### Python :snake:
 
 - [Statistic Process Control](https://github.com/PhilippeDataScienc/Statistic_process_control)
     - Create a class for calculation of a process score with OOP programming
     - Implementation in a Flask app with file manipulation and data visualisation
     - I choosed Flask to manipulate the file.
-- [Simple animation of a stl file](https://github.com/PhilippeDataScienc/3D_file_explorer)
-    - use of pyvista lib to geenrate animation around stl 3D file
 - [Automatic Bill Update](https://github.com/PhilippeDataScienc/Automatic_bill_update)
     - It's a project for a small business entrepreneur which include several functionnalities:
     - automatic bill implementation each month (manipulation of docx files, modification, creation of new folder, convert to pdf)
@@ -37,6 +36,10 @@ Python Addict :snake:
      - web interface in Flask of market stock exchange
      - automated testings with github actions
      - automated tests in local with tox
+  ***
+  ### C sharp #️⃣
+- [Notepad App / C#](https://github.com/PhilippeDataScienc/Bloc_notes_CSharp) :
+     - Used Windows Forms to code a Notepad App
 
 Explore my [repositories](https://github.com/PhilippeDataScienc) to find more interesting projects!
 
