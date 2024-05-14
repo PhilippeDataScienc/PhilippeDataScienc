@@ -52,6 +52,7 @@ Explore my [repositories](https://github.com/PhilippeDataScienc) to find more in
 
 ## 📚 Certifications
 
+- [OpenCV Bootcamp (2024)](https://courses.opencv.org/certificates/28ffd2f53053481a9a790fe7752d1504)
 - [Data Analysis with Python (2023)](https://www.freecodecamp.org/certification/Philippe_Acquier/data-analysis-with-python-v7)
 - [Scientific Computing with Python (2023)](https://www.freecodecamp.org/certification/Philippe_Acquier/scientific-computing-with-python-v7)
 - [The Complete Data Science Bootcamp (2022)](https://www.udemy.com/certificate/UC-10dc1d54-3724-4074-a54d-983e7a5fb04c/)
